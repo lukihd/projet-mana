@@ -1,0 +1,84 @@
+/* CSS MAIN */
+main div {
+    width: auto;
+    font-size: 16px;
+}
+
+.container-right {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.container-right img {
+    width: 50%;
+    height: 75%;
+    display :inline-block;
+    border: 5px solid #54777d;
+}
+
+.text-right {
+    width: 40%;
+    display: inline-block;
+    padding-left: 20px;
+    vertical-align: middle
+}
+
+.button {
+    display: inline-block;
+    background-color: #54777d;
+    color: lightgrey;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border: 2px solid #54777d;
+}
+
+.button:hover {
+    background-color: #e7e3c5;
+    color: #54777d;
+    border: 2px solid #54777d;
+}
+.button2 {
+    display: inline-block;
+    background-color: #54777d;
+    color: lightgrey;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    transition-duration: 0.4s;
+    border: 2px solid #54777d;
+}
+
+.button2:hover {
+    background-color: #e7e3c5;
+    color: #54777d;
+    border: 2px solid #54777d;
+}
+
+
+.container-left {
+    margin: 50px 50px;
+}
+.container-left img {
+    width: 50%;
+    height: 75%;
+    display :inline-block;
+    border: 5px solid #54777d;
+}
+
+.text-left {
+    width: 40%;
+    display: inline-block;
+    padding-left: 20px;
+    vertical-align: middle;
+}
+#gantt {
+    vertical-align: middle;
+}
