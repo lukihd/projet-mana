@@ -1,0 +1,22 @@
+/* CSS MAIN */
+
+main {
+    height: 466px;
+    width: 100%;
+}
+
+main div {
+    width: 33%;
+    display: inline-block;
+}
+
+main div p {
+    width: 85%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+main div h3 {
+    text-align: center;
+}d
