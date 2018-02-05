@@ -1,11 +1,8 @@
 #map{
   width: 40%;
   margin-left:
-  cursor: -webkit-zoom-in;
 }
 
 #map:hover{
   width: 70%;
-  background-color: #f2f2f2;
-
 }
