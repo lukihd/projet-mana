@@ -1,6 +1,13 @@
 /* CSS MAIN */
 
 main {
-    height: 466px;
+    height: 575px;
     width: 100%;
+}
+
+#temp {
+    width: 500px;
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-right: auto;
 }
